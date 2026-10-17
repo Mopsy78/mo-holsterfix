@@ -1,6 +1,6 @@
 # mo-holsterfix
 
-**RedM | RSG-Core**
+**RedM**
 
 A lightweight visual adjustment for revolver positioning in RedM.
 
